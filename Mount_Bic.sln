@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mount_Bic", "Mount_Bic\Mount_Bic.csproj", "{B17726A5-445C-4D44-A8D0-C8723F8EBE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17726A5-445C-4D44-A8D0-C8723F8EBE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17726A5-445C-4D44-A8D0-C8723F8EBE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17726A5-445C-4D44-A8D0-C8723F8EBE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17726A5-445C-4D44-A8D0-C8723F8EBE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15287D15-5EFF-44D6-BD28-2F30E3A6A47A}
+	EndGlobalSection
+EndGlobal
